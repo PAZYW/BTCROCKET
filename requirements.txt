@@ -1,0 +1,6 @@
+streamlit
+pytrends
+textblob
+requests
+pandas
+plotly
